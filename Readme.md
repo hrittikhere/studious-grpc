@@ -3,7 +3,9 @@
 ## Useful Links:
 
 https://developers.google.com/protocol-buffers/docs/reference/go-generated
+
 https://dev.to/techschoolguru/how-to-define-a-protobuf-message-and-generate-go-code-4g4e
+
 https://towardsdev.com/option-go-package-in-protobuf-a0fd0d71ab21
 
 
