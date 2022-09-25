@@ -1,2 +1,1 @@
-# gRPC: [The Complete Guide](https://dev.to/techschoolguru/series/7311)
-
+# gRPC Training: [The Complete Guide](https://dev.to/techschoolguru/series/7311)
